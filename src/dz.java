@@ -19,5 +19,6 @@ public class dz {
         reversedNumber += number * 100;
 
         System.out.println("Число, полученное справа налево: " + reversedNumber);
+
     }
 }
